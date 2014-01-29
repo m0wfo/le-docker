@@ -15,5 +15,5 @@ From the root of the repository:
 
 And to log some data:
 
-`$ rsyslog`
-`$ logger 'hello, world!'`
+    $ rsyslog
+    $ logger 'hello, world!'
